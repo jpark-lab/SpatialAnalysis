@@ -1,5 +1,6 @@
 # SpatialAnalysis
 Codes for data analysis from spatial omics assays
+[![DOI](https://zenodo.org/badge/541026466.svg)](https://zenodo.org/doi/10.5281/zenodo.10016141)
 
 
 ### Park-CellReportsMedicine2022-Fig6
